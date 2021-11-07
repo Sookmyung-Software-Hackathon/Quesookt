@@ -1,7 +1,7 @@
-# Quesookt
+# Quesookt💛
 
 ```
- 💡 서비스 소개
+ 💡 피할 수 없는 비대면 상황 숙명(Facility) 속에서 숙명(Sookmyung) 학우들을 위한 챌린지 앱
 ```
 <br>
 
