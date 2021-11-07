@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/custom_progress_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_thumb.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_triangle.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ll_sky_gradient.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/drawable/rectangle_border_gray_top.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rectangle_border_gray_top_right.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rectangle_border_sky_10.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/drawable/rectangle_fill_gray_10.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/drawable/rectangle_fill_sky_10.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/drawable/rectangle_fill_white_60.xml" value="0.11145833333333334" />
+        <entry key="app/src/main/res/drawable/rectangle_fill_white_8.xml" value="0.159375" />
+        <entry key="app/src/main/res/drawable/rectangle_fill_white_top_20.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/drawable/selector_answer.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable/selector_confirm_background.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12632028147759403" />
+        <entry key="app/src/main/res/layout/activity_on_board.xml" value="0.14072980082880443" />
+        <entry key="app/src/main/res/layout/activity_onboard.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/layout/activity_quest_detail.xml" value="0.18020833333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22436411225177746" />
+        <entry key="app/src/main/res/layout/chip_question.xml" value="0.25205573078246235" />
+        <entry key="app/src/main/res/layout/fragment_character.xml" value="0.1460080006292969" />
+        <entry key="app/src/main/res/layout/fragment_complete.xml" value="0.15966386554621848" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.12395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_nickname.xml" value="0.17487874261112693" />
+        <entry key="app/src/main/res/layout/fragment_quest.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/layout/fragment_question.xml" value="0.2142473726776007" />
+        <entry key="app/src/main/res/layout/fragment_result.xml" value="0.6068087465264929" />
+        <entry key="app/src/main/res/layout/item_completed_quest.xml" value="0.2515247396071715" />
+        <entry key="app/src/main/res/layout/item_quest.xml" value="0.2107867014695998" />
+        <entry key="app/src/main/res/layout/item_question.xml" value="0.22092556060147814" />
+        <entry key="app/src/main/res/layout/layout_quesookt_dialog.xml" value="0.28193094796402784" />
+        <entry key="app/src/main/res/layout/rectangle_border_gray_top.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="core/src/main/res/drawable/rectangle_fill_white_3.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

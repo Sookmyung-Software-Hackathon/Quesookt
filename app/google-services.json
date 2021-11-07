@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49474753789",
+    "firebase_url": "https://quesookt-default-rtdb.firebaseio.com",
+    "project_id": "quesookt",
+    "storage_bucket": "quesookt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49474753789:android:958257fc436c7399fada94",
+        "android_client_info": {
+          "package_name": "org.quesong.quesookt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49474753789-rf5ur62i4ad0lurq73clqeklcblapl9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvAtJl7WuU3Nx5NPEdxZD6o80-xWJuC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49474753789-rf5ur62i4ad0lurq73clqeklcblapl9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

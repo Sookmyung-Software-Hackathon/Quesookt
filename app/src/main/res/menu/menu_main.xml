@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_character"
+        android:icon="@drawable/ic_person"
+        android:title="@string/character" />
+
+    <item
+        android:id="@+id/menu_quest"
+        android:icon="@drawable/ic_list"
+        android:title="@string/quest" />
+
+    <item
+        android:id="@+id/menu_complete"
+        android:icon="@drawable/ic_quest"
+        android:title="@string/complete" />
+</menu>

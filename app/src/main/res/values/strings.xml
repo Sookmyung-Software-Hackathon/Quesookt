@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quesookt</string>
+
+    <!--Main Menu-->
+    <string name="character">캐릭터</string>
+    <string name="quest">퀘스트</string>
+    <string name="complete">완료</string>
+    <!--Quest-->
+    <string name="go_to_library">학교 도서관 가기</string>
+    <string name="advice_library">도서관에서 공부해보세요</string>
+    <string name="num_people">5</string>
+    <string name="finish">명이 완료했어요!</string>
+    <string name="start">시작하기</string>
+    <string name="tip">Tip.</string>
+    <string name="quest_complete">완료한 퀘스트</string>
+    <string name="complete_list_title">학교 도서관 가기</string>
+    <string name="complete_list_date">2021/11/06</string>
+    <string name="delete_sure">퀘스트를 포기하겠습니까?</string>
+    <string name="delete_desc">확인을 누르시면 퀘스트 진행이 초기화됩니다.</string>
+    <string name="accept">확인</string>
+    <string name="finish_quest">완료하기</string>
+
+    <!--Onboard-->
+    <string name="use">에서 사용할</string>
+    <string name="confirm">확인</string>
+    <string name="limit">/7자</string>
+    <string name="zero">0</string>
+    <string name="nickname_hint">닉네임을 7자 이내로 입력해주세요</string>
+    <string name="input_plz">을 입력해주세요.</string>
+    <string name="nickname">닉네임</string>
+    <string name="quesookt">퀘숙트</string>
+    <string name="your_dormitory">"당신의 기숙사는 "</string>
+    <string name="result">입니다</string>
+    <string name="really_quit">정말로 나가시겠습니까?</string>
+    <string name="quit">취소</string>
+    <string name="exit">나가기</string>
+    <string name="finish_ment">아직 튜토리얼이 남아있습니다!\n정말 퀘숙트를 나가시겠어요?</string>
+
+    <!--Character-->
+    <string name="exp">EXP.</string>
+    <string name="level1">안녕하세요! 눈송이입니다. 퀘스트를 완료하여 레벨업에 도전하세요!</string>
+    <string name="level2">정수리가 자란 레벨 2 눈송이입니다. 다음 레벨에 도전해보세요!</string>
+    <string name="level3">양갈래가 자란 레벨 3 눈송이입니다. 많은 퀘스트를 완료하셨네요!</string>
+
+
+    <!--Tools-->
+    <string name="gongang">어느날 공강 시간이 생긴 당신.\n어떤 일을 하시겠습니까?</string>
+    <string name="renaissance">르네상스 기숙사</string>
+    <string name="renaissance_explain">르네상스 기숙사는 혼밥, 혼강을 즐기는\n사람들이 거주하는 기숙사입니다.</string>
+    <string name="prime_explain">다양한 학과 사람들과의 친목 및 취미를 자주 공유하는\n사람들이 모인 기숙사입니다</string>
+    <string name="jinri_explain">열정! 열정! 열정! 학업에 누구보다 열정적으로 임하는 사람들이 모인 기숙사입니다</string>
+    <string name="sunheon_explain">취준에 관심이 많고 선배들과의 네트워크를 좋아하는\n사람들이 모인 기숙사입니다</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
